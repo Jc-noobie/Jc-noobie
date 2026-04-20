@@ -1,7 +1,9 @@
-# **Joed-Donaire**
-# 💫 About Me:
-I'm an aspiring Web Developer that often creates simple TUI projects and if I have some time im creating full stack applications
+# Hi there, I'm Joed Donaire 👋
 
+**Aspiring Web Developer** | Creating simple TUI tools and full-stack applications when time allows.
+
+- 🌱 Currently learning:Full Stack Web Development using PERN as a tech stack
+- 🔭 Working on: A Sudoku Game Helper in Terminal 
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@jc somethin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joeddonaire@gmail.com) 
