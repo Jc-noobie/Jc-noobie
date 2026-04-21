@@ -20,7 +20,7 @@ Full Stack Web Development (PERN stack) — React, Node, Express, PostgreSQL
 
 | Project | Description | Stack |
 |---|---|---|
-| Sudoku CLI Helper | Terminal tool that solves/hints sudoku puzzles | C++, RayLib |
+| Sudoku CLI Helper | Terminal tool that solves/hints sudoku puzzles | Javascript, Nodejs |
 | *(more coming)* | | |
 
 ---
