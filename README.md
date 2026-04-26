@@ -7,7 +7,7 @@ Currently 3rd year CS — learning by shipping.
 
 ## 🔨 What I'm Working On
 
-- **Sudoku Helper CLI** — terminal-based puzzle assistant built in C++
+- **Sudoku Helper CLI** — terminal-based puzzle assistant built with Javascript
 - **Full-stack apps** — using PostgreSQL, Express, React, Node.js
 
 ## 📚 Currently Learning
