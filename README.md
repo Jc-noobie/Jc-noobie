@@ -2,7 +2,8 @@
 
 # Joed Donaire
 3rd year CS · PERN stack · learning by shipping
-📧 joeddonaire@gmail.com · ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jc-noobie.Jc-noobie)
+📧 joeddonaire@gmail.com · 
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jc-noobie.Jc-noobie) -->
 
 ---
 
