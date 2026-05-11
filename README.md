@@ -18,11 +18,6 @@
 
 ---
 
-## Projects
-**Sudoku CLI Helper** — terminal puzzle tool · JS/Node
-
----
-
 ## GitHub Stats
 
 ![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jc-noobie&layout=compact&theme=tokyonight&hide_border=false)
