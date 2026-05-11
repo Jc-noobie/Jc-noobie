@@ -18,7 +18,6 @@ React · Next.js · Node.js · Express · PostgreSQL · TailwindCSS · C++
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Jc-noobie&theme=dark&hide_border=false&show_icons=true)
 ![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jc-noobie&layout=compact&theme=dark&hide_border=false)
 
 ![Streak](https://streak-stats.demolab.com/?user=Jc-noobie&theme=dark&hide_border=false)
