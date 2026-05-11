@@ -13,7 +13,5 @@ React · Next.js · Node.js · Express · PostgreSQL · TailwindCSS · C++
 
 ---
 
-![Contrib](https://ghchart.rshah.org/Jc-noobie)
-
 ![Stats](https://github-readme-stats.shion.dev/api?username=Jc-noobie&theme=dark&hide_border=false)
 ![Streak](https://streak-stats.demolab.com/?user=Jc-noobie&theme=dark&hide_border=false)
