@@ -24,4 +24,6 @@ React · Next.js · Node.js · Express · PostgreSQL · TailwindCSS · C++
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jc-noobie&theme=github-dark)
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=3rd+Year+CS+Student;PERN+Stack+Developer;Learning+by+Shipping)
+
 </div>
