@@ -22,7 +22,7 @@
 
 <!-- ![Streak](https://streak-stats.demolab.com/?user=Jc-noobie&theme=tokyonight&hide_border=false) -->
 
-![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jc-noobie&layout=compact&theme=tokyonight&hide_border=false)
+<!-- ![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jc-noobie&layout=compact&theme=tokyonight&hide_border=false) -->
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jc-noobie&theme=react-dark)
 
