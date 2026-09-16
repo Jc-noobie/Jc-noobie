@@ -1,14 +1,24 @@
-<div align="center">
+# Joed Donaire
 
-<p><code>jc-noobie@github ~ $ ./Developer.sh</code></p>
+4th Year CS Student · Team Lead · Web Developer (Learning)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=jc-noobie&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158983119%3Fu%3Df79f3a96d742116505e2ba98d2cefb186d2b9d25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=jc-noobie&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158983119%3Fu%3Df79f3a96d742116505e2ba98d2cefb186d2b9d25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Joed Donaire animated maintainer system scan" />
-</picture>
-</p>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joed;4th+Year+CS+Student;Team+Lead+%26+Aspiring+Web+Dev;Learning+one+bug+at+a+time)
+
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=flat)](PLACEHOLDER_FB_URL)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat)](PLACEHOLDER_IG_URL)
+[![Indeed](https://img.shields.io/static/v1?message=Indeed&logo=indeed&label=&color=2164F3&logoColor=white&style=flat)](PLACEHOLDER_INDEED_URL)
+[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat)](mailto:joeddonaire@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=flat)](PLACEHOLDER_PORTFOLIO_URL)
+
+---
+
+### 🛠 Currently learning
+Web Development — building apps, sharpening system design & programming fundamentals.
+
+### 📌 Pinned Projects
+_(pin your repos on your GitHub profile page — they'll show up below this automatically)_
+
+---
 
 
 <!-- <h2>Why I build in public</h2>
