@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Joed Donaire</h1>
- ---
   <h3>4th Year CS Student · Team Lead · Web Developer (Learning)</h3>
   <p><code>jc-noobie@github ~ $ ./Developer.sh</code></p>
 </div>
