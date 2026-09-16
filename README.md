@@ -31,7 +31,7 @@
 </picture>
 </p> -->
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="17%" align="center"><strong>GDScript</strong><br /><sub>64%</sub></td>
 <td width="17%" align="center"><strong>C#</strong><br /><sub>20%</sub></td>
@@ -56,7 +56,7 @@
 <td width="25%" valign="top"><h3><a href="https://github.com/Jc-noobie/Sodoku">Sodoku</a></h3><p>A public project looking for its next contributor.</p><p><sub>C++ · ⭐ 0</sub></p></td>
 <td width="25%" valign="top"><h3><a href="https://github.com/Jc-noobie/Sudoku-TUI">Sudoku-TUI</a></h3><p>A public project looking for its next contributor.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
 </tr>
-</table>
+</table> -->
 
 <!-- <h2>Contribution activity</h2>
 
