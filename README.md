@@ -1,4 +1,14 @@
 # Joed Donaire
+4th Year CS Student · Team Lead · Web Developer (Learning)
+ <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+ <img alt="Jc-noobie's GitHub profile" src="dark_mode.svg" />
+
+
+
+
+<!--
+# Joed Donaire
 
 4th Year CS Student · Team Lead · Web Developer (Learning)
 
@@ -14,12 +24,12 @@
 
 ### 🛠 Currently learning
 Web Development — building apps, sharpening system design & programming fundamentals.
-<!--
+
 ### 📌 Pinned Projects
 _(pin your repos on your GitHub profile page — they'll show up below this automatically)_
- -->
----
 
+---
+-->
 
 <!-- <h2>Why I build in public</h2>
 
