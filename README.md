@@ -14,10 +14,10 @@
 
 ### 🛠 Currently learning
 Web Development — building apps, sharpening system design & programming fundamentals.
-
+<!--
 ### 📌 Pinned Projects
 _(pin your repos on your GitHub profile page — they'll show up below this automatically)_
-
+ -->
 ---
 
 
