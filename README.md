@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><code>jc-noobie@github ~ $ ./maintainer.sh</code></p>
+<p><code>jc-noobie@github ~ $ ./Developer.sh</code></p>
 
 <p align="center">
 <picture>
@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<h2>Why I build in public</h2>
+<!-- <h2>Why I build in public</h2>
 
 <table width="100%">
 <tr>
@@ -18,7 +18,7 @@
 <td width="33%" valign="top"><h3>Proof</h3><p>21 public repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Contribution</h3><p>87 contributions · 44 active days</p></td>
 </tr>
-</table>
+</table> -->
 
 <!-- <h2>Open-source toolbox</h2>
 
