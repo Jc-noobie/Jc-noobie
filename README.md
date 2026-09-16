@@ -1,14 +1,13 @@
 <div align="center">
-# Joed Donaire
-4th Year CS Student · Team Lead · Web Developer (Learning)
-<p><code>jc-noobie@github ~ $ ./Developer.sh</code></p>
-
+  <h1>Joed Donaire</h1>
+ ---
+  <h3>4th Year CS Student · Team Lead · Web Developer (Learning)</h3>
+  <p><code>jc-noobie@github ~ $ ./Developer.sh</code></p>
 </div>
 
  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
  <img alt="Jc-noobie's GitHub profile" src="dark_mode.svg" />
-
 
 
 
